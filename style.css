@@ -1,0 +1,160 @@
+
+.cf{
+    background-color: black;
+    font-size: 14px;
+}
+.ac{
+    display: flex;
+    background-color: palevioletred;
+
+}
+
+
+.home-heading{
+    margin-top:none;
+    font-size: 14px;
+    padding-top: 0;
+}
+.header-bg{
+    background-color: palevioletred;
+    font-size: 14px;
+
+}
+.al{
+    color: burlywood;
+    padding-top: 15px;
+    text-align: center;
+
+    
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;;
+    
+}
+.navbar{
+    padding-left: 200px;
+}
+.categories-list{
+    text-align: center;
+    padding: 20px;
+    color: black;
+    background-color: cornsilk;
+}
+.item-list{
+    border: 1px solid whitesmoke;
+    list-style-type:none;
+    margin-top: 20px;
+
+    
+}
+
+
+.footer-row{
+    padding-top: 20px;
+
+}
+li{
+    list-style-type: none;
+    margin-bottom: 4px;
+}
+.insta-feed{
+    margin-bottom: 15px;
+}
+.delivery-image{
+    height: 50px;
+}
+.return-image{
+    height: 50px;
+}
+.support-img{
+    height: 50px;
+}
+
+.newsletter{
+    text-align: center;
+    color: tomato;
+}
+.newsletter1{
+    text-align: center;
+    color: tomato;
+    width: 60%;
+    height: 50px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    
+    text-decoration: none;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background:red;
+    color: white;
+  }
+  .fa-snapchat {
+    background:yellow;
+    color: white;
+  }
+  .fa-instagram {
+    background:rgb(240, 80, 80);
+    color: white;
+  }
+
+
+
+footer ul{
+    padding: 0;
+}
+.icon-col{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.bucket{
+    height: 50px; 
+    margin-right: 10px;
+}
+.bucket-disp{
+    display: flex;
+    
+}
+.footer-headings{
+    color: firebrick;
+}
+.footer2-heading{
+    color:maroon;
+}
+.footer-font{
+    font-weight: 200;
+}
+.image-div{
+    height: 252px;
+    
+}
+.fa{
+    margin-left: px;
+}
+.controls{
+    display: flex;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.controls-2{
+    text-align: right;
+}
+.image-div{
+    padding:50px;
+   
+}
+.imgprop{
+    height: 100%;
+    width: 100%;
+
+}
+.ak{
+    padding-left: 5px;
+    
+}
